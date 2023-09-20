@@ -1,1 +1,21 @@
 /*  your css code here. If applicable */
+#card{
+	padding-left:40px;
+	padding-right:00px;
+	padding-top:10px;
+	width:300px;
+	align-items:center;
+	background-color:floralwhite;
+	border-radius:circle
+}
+#btn{
+	border-top-left-radius: 50px;
+border-top-right-radius: 50px;
+border-bottom-right-radius: 50px;
+border-bottom-left-radius: 50px;
+padding-left:100px;
+padding-right:100px;
+	height:50px;
+	width:50px;
+background-color:palevioletred;
+}
